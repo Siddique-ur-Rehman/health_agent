@@ -20,7 +20,7 @@ A simple AI health assistant built with the OpenAI Agents SDK and Google Gemini.
 - uv
 - python-dotenv
 
-## Project Structure
+### Project Structure
 
 health-agent/
 ├── health_agents/
