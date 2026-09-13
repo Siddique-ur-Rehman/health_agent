@@ -64,4 +64,4 @@ Type `exit` to stop the application.
 
 ## Note
 
-This project is created for learning and general health information purposes. It is not a replacement for professional medical advice or diagnosis.
+This project is created for learning and general health information purposes. It is not a replacement for professional medical advice or diagnosis
