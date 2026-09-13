@@ -19,19 +19,23 @@ A simple AI health assistant built with the OpenAI Agents SDK and Google Gemini.
 - SQLite
 - uv
 - python-dotenv
-'''
+
 ## Project Structure
 
+```text
 health-agent/
 ├── health_agents/
 │   ├── __init__.py
 │   └── health_agent.py
+│
 ├── tools/
 │   ├── __init__.py
 │   └── health_tools.py
+│
 ├── memory/
 │   ├── __init__.py
 │   └── session.py
+│
 ├── .env
 ├── .gitignore
 ├── main.py
