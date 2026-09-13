@@ -20,7 +20,7 @@ A simple AI health assistant built with the OpenAI Agents SDK and Google Gemini.
 - uv
 - python-dotenv
 
-### Project Structure
+## Project Structure
 
 health-agent/
 ├── health_agents/
@@ -64,4 +64,4 @@ Type `exit` to stop the application.
 
 ## Note
 
-This project is created for learning and general health information purposes. It is not a replacement for professional medical advice or diagnosis
+This project is created for learning and general health information purposes. It is not a replacement for professional medical advice or diagnosis.
